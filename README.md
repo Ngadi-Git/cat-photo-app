@@ -5,4 +5,4 @@
 * buttons
 * and other elements to your webpage.
 
-## In this course, I'll learn and build the most common HTML tags by building my own cat photo app.
+## In this course, I'll learn the most common HTML tags by building my own cat photo app.
