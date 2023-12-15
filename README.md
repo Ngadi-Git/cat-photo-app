@@ -1,5 +1,5 @@
-## HTML tags give a webpage its structure. 
-## 
+# HTML tags give a webpage its structure. 
+#  
 ## You can use HTML tags to add:
 * photos
 * buttons
